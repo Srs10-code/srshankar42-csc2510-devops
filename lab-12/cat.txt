@@ -1,2 +1,2 @@
-Bob likes cats
+Alice and Bob like cats.
 cats are cool, but dogs are cooler
